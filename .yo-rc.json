@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "fr.inti.habillage",
+            "nativeLanguage": "fr"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "habillage",
+        "packageName": "fr.inti.habillage",
+        "packageFolder": "fr/inti/habillage",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NGIzMTRjOTA4MTQ5ZWJlZGNkYzc3MTY2ZGI3OTcyYTJlMDgyNWE5OGQ4OGVmMGUwM2Q5ZmQ1MWVkYjk5NTRlYWQ3YWY0OGJmMzU0MzMyOTQ0M2RlYTY5MWMwMjYxYzE3M2Y5MjA4ZmUyNTUxOThlYWFkMGI1YjNkY2ZiODVjYjM=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "fr",
+        "languages": ["fr"]
+    }
+}
